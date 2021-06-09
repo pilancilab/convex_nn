@@ -1,6 +1,6 @@
 # Convex optimization for two-layer ReLU neural networks
 
-In this repository, we provide two distinct implementations to optimize two-layer ReLU neural networks. Particularly, we utilize the exact convex formulations introduced in [1]. Then, we optimize this equivalent architecture both via the interior point solvers in CVXPY and optimizers in PyTorch.
+In this repository, we provide two distinct implementations to optimize two-layer ReLU neural networks. Particularly, we utilize the exact convex formulations introduced in [1]. Then, we optimize these equivalent architectures both via the interior point solvers in CVXPY and optimizers in PyTorch.
 
 Run the following CVXPY based implementation to perform a binary classification task on a toy dataset:
 
